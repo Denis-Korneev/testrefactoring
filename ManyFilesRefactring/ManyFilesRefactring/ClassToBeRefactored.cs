@@ -1,10 +1,10 @@
 ﻿namespace ManyFilesRefactring
 {
-  public class ClassToBeRefactored
+  public class ClassToRefactor
   {
     private int _x;
 
-    public ClassToBeRefactored(int x)
+    public ClassToRefactor(int x)
     {
       _x = x;
     }
