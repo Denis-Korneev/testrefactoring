@@ -72,7 +72,6 @@
     <Compile Include="Class8.cs" />
     <Compile Include="Class9.cs" />
     <Compile Include="ClassToBeRefactored.cs" />
-    <Compile Include="ClassXx.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
