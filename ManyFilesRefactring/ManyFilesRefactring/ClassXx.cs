@@ -1,11 +1,10 @@
 ﻿namespace ManyFilesRefactring
 {
-  public class Class1
+  public class ClassXx
   {
-    public Class1()
+    public ClassXx()
     {
       var x = new ClassToRefactor2(1);
-      var y = new ClassXx();
     }
   }
 }
