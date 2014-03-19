@@ -11,8 +11,14 @@
 
     public int X
     {
-      get { return _x; }
-      set { _x = value; }
+      get
+      {
+        return _x;
+      }
+      set
+      {
+        _x = value;
+      }
     }
 
   }
