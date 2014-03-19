@@ -4,7 +4,7 @@
   {
     public Class7()
     {
-      var x = new ClassToRefactor(1);
+      var x = new ClassToRefactor2(1);
     }
   }
 }
